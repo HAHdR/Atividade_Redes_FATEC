@@ -10,7 +10,7 @@
 ### A1. Escolha da Máscara Única (Etapa 1)
 
 - **Setor com maior número de estações:** Produção
-- **Total de endereços necessários nesse setor:** (estações + gateway + rede + broadcast): 25 + 1 + 1 + 1 = 28
+- **Total de endereços necessários nesse setor** (estações + gateway + rede + broadcast)**:** 25 + 1 + 1 + 1 = 28
 - **Bits de host necessários (n):** 5
 - **Máscara escolhida para todas as sub-redes:** 255.255.255.224 /27
 - **Tamanho do bloco (2ⁿ):** 32
